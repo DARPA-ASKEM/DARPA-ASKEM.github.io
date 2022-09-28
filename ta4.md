@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Simulators
+title: Workbench
 nav_order: 4
 has_toc: true
 ---
-# Machine-assisted simulators
+# Workbench for Human-Machine Interface
 
 Coming soon.
