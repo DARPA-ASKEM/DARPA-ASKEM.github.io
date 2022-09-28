@@ -10,7 +10,7 @@ gems:
 - jekyll-sitemap
 - jemoji
 
-theme: "just-the-docs"
+# theme: "just-the-docs"
 
 aux_links:
   "ASKEM on Github":
