@@ -1,0 +1,7 @@
+title: "ASKEM"
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+
+aux_links:
+  "ASKEM on Github":
+    - "//github.com/DARPA-ASKEM"
