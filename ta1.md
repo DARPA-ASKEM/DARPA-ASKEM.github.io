@@ -6,4 +6,6 @@ has_toc: true
 ---
 # Machine-assisted knowledge discovery and curation
 
-Coming soon.
+- [Scientific Knowledge Extraction and Model Analysis](https://skema.sista.arizona.edu) (Lum.AI, SIFT, UArizona)
+
+More coming soon.
