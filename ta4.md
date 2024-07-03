@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Workbench
-nav_order: 5
+title: Terarium Workbench
+nav_order: 2
 has_toc: true
 ---
-# Workbench for Human-Machine Interface
+# Terarium Workbench
 
 Coming soon.

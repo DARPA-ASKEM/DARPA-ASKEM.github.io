@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Modeling
-nav_order: 3
+nav_order: 4
 has_toc: true
 ---
-# Machine-assisted modeling
+# Machine-assisted Modeling
 
 Coming soon.
