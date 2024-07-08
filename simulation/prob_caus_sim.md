@@ -1,12 +1,13 @@
 ---
 layout: default
-title: xDD
-parent: Knowledge Extraction
-nav_order: 4
+title: Probabilistic and Causal Simulation
+parent: Modeling
+nav_order: 1
 has_toc: true
 ---
-# xDD
+# Probabilistic and Causal Simulation Workflows
 
+CIEMSS
 Coming soon.
 
 ## Overview

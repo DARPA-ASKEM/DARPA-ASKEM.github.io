@@ -1,11 +1,11 @@
 ---
 layout: default
-title: xDD
-parent: Knowledge Extraction
-nav_order: 4
+title: Knowledge Extraction Pipeline
+parent: Knowledge Discovery, Extraction, and Curation
+nav_order: 5
 has_toc: true
 ---
-# xDD
+# SKEMA and COSMOS
 
 Coming soon.
 

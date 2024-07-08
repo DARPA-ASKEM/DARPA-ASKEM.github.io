@@ -1,11 +1,11 @@
 ---
 layout: default
-title: xDD
-parent: Knowledge Extraction
-nav_order: 4
+title: Deterministic and Probabilistic Simulation
+parent: Modeling
+nav_order: 2
 has_toc: true
 ---
-# xDD
+# Deterministic and Probabilistic Simulation Workflows
 
 Coming soon.
 

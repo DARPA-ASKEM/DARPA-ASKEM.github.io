@@ -1,13 +1,14 @@
 ---
 layout: default
-title: xDD
-parent: Knowledge Extraction
-nav_order: 4
+title: Model Editing and Validation
+parent: Modeling
+nav_order: 3
 has_toc: true
 ---
-# xDD
+# Model Editing and Validation Workflows
 
 Coming soon.
+Model --> Mira --> Funman
 
 ## Overview
 

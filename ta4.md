@@ -4,6 +4,6 @@ title: Terarium Workbench
 nav_order: 2
 has_toc: true
 ---
-# Terarium Workbench
+# Integration HMI System: Terarium Workbench
 
 Coming soon.

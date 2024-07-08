@@ -1,11 +1,11 @@
 ---
 layout: default
-title: xDD
-parent: Knowledge Extraction
-nav_order: 4
+title: Mira
+parent: Modeling
+nav_order: 1
 has_toc: true
 ---
-# xDD
+# Mira
 
 Coming soon.
 
