@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Terarium Workbench
-nav_order: 2
+nav_order: 4
 has_toc: true
 ---
-# Integration HMI System: Terarium Workbench
+# Integrated HMI System: Terarium Workbench
 
 Coming soon.

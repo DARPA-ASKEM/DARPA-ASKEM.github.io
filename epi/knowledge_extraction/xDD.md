@@ -1,7 +1,7 @@
 ---
 layout: default
 title: xDD
-parent: Knowledge Extraction
+parent: Knowledge Discovery, Extraction, and Curation
 nav_order: 4
 has_toc: true
 ---

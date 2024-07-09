@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Knowledge Discovery, Extraction, and Curation
-nav_order: 3
+parent: Epidemiology Use Case
+nav_order: 1
 has_toc: true
 has_children: true
 ---
