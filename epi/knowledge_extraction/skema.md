@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Palimpzest
-parent: Knowledge Discovery and Curation
-nav_order: 2
+title: SKEMA
+parent: Knowledge Discovery, Extraction, and Curation
+nav_order: 1
 has_toc: true
 ---
-# Palimpzest
+# SKEMA
 
 Coming soon.
 
@@ -14,5 +14,5 @@ Coming soon.
 ## Installation and Configuration Instructions
 (please include links to repositories)
 
-## Examples
+## Example Usage
 (please include visuals, screenshots of inputs and outputs, etc.)
