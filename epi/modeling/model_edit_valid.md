@@ -8,8 +8,7 @@ has_toc: true
 ---
 # Model Editing and Validation Workflows
 
-Coming soon.
-Model --> Mira --> Funman
+Coming soon. (Model --> Mira --> Funman)
 
 ## Overview
 

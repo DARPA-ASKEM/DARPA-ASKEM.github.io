@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Deterministic and Probabilistic Simulation
-parent: Modeling
+parent: Simulation
 grand_parent: Epidemiology Use Case
 nav_order: 2
 has_toc: true
 ---
 # Deterministic and Probabilistic Simulation Workflows
 
-Julia Hub
-Coming soon.
+Coming soon. (Julia Hub)
 
 ## Overview
 

@@ -7,7 +7,8 @@ nav_order: 5
 has_toc: true
 ---
 # SKEMA and COSMOS
-SKEMA + COSMOS run in parallel
+SKEMA + COSMOS run in parallel.
+
 Coming soon.
 
 ## Overview

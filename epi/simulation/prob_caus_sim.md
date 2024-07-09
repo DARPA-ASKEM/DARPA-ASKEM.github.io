@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Probabilistic and Causal Simulation
-parent: Modeling
+parent: Simulation
 grand_parent: Epidemiology Use Case
 nav_order: 1
 has_toc: true
 ---
 # Probabilistic and Causal Simulation Workflows
 
-CIEMSS
-Coming soon.
+Coming soon. (CIEMSS)
 
 ## Overview
 
