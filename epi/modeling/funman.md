@@ -2,6 +2,7 @@
 layout: default
 title: Funman
 parent: Modeling
+grand_parent: Epidemiology Use Case
 nav_order: 2
 has_toc: true
 ---

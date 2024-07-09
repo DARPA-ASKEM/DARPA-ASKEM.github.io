@@ -2,6 +2,7 @@
 layout: default
 title: Probabilistic and Causal Simulation
 parent: Modeling
+grand_parent: Epidemiology Use Case
 nav_order: 1
 has_toc: true
 ---

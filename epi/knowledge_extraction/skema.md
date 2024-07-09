@@ -2,6 +2,7 @@
 layout: default
 title: SKEMA
 parent: Knowledge Discovery, Extraction, and Curation
+grand_parent: Epidemiology Use Case
 nav_order: 1
 has_toc: true
 ---
