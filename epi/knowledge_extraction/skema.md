@@ -12,8 +12,8 @@ Coming soon.
 
 ## Overview
 Coming Soon
-#### *Target Users*: SKEMA knowledge extraction tools are for modelers or researchers who are developing their own models from scratch, and want to extract information from PDF documents and Python code to inform model development
-#### *Features Supported*: Users can use SKEMA to:
+<h3> *Target Users*:</h3> SKEMA knowledge extraction tools are for modelers or researchers who are developing their own models from scratch, and want to extract information from PDF documents and Python code to inform model development
+<h3> *Features Supported*:</h3> Users can use SKEMA to:
 * Extract equations, initial conditions, and parameter values from code
 * Extract knowledge from documents (e.g. scenario contexts)
 
