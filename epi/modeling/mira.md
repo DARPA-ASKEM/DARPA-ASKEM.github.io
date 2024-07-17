@@ -15,10 +15,10 @@ templates, and generating various model implementations and exchange formats
 from these templates. It also implements algorithms for assembling and querying 
 domain knowledge graphs in support of modeling.
 
-### Target Users: 
+#### *Target Users:*
 Mira can be used by modelers or researchers who want to transform or extend an existing model in various ways, to meet the needs of their specific situation. 
 
-### Features Supported: 
+#### *Features Supported:*
 Users can use Mira to:
 * Make structural model modifications
 * Do structural model comparison for model selection purposes,

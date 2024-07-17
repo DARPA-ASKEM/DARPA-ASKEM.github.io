@@ -11,8 +11,11 @@ has_toc: true
 Coming soon.
 
 ## Overview
-#### *Target Users*: FUNMAN can be used by modelers or researchers who want to explore valid model configurations, and to do various model checks to ensure validity of a model according to various common sense constraints (e.g. population is conserved across all disease states and within age groups, etc.) 
-#### *Features Supported*: Users can use FUNMAN to:
+#### *Target Users*: 
+FUNMAN can be used by modelers or researchers who want to explore valid model configurations, and to do various model checks to ensure validity of a model according to various common sense constraints (e.g. population is conserved across all disease states and within age groups, etc.) 
+
+#### *Features Supported*: 
+Users can use FUNMAN to
 * Check that their models obey some core common-sense rules, using Funman satisfiability checks
 * Find an appropriate set of parameter configurations for a model
 

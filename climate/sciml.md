@@ -11,9 +11,11 @@ Coming soon.
 
 ## Overview
 Coming Soon
-#### *Target Users*: SciML and Modeling Toolkit (MTK) can be used by climate modelers in the physical climate sciences, who have an existing model and wants to do various high fidelity simulations and model calibration with it.
+#### *Target Users*: 
+SciML and Modeling Toolkit (MTK) can be used by climate modelers in the physical climate sciences, who have an existing model and wants to do various high fidelity simulations and model calibration with it.
 
-#### *Features Supported*: Users may want to use SciML and MTK to:
+#### *Features Supported*: 
+Users may want to use SciML and MTK to:
 * Start with a physics PDE model expressed in vector calculus form,
 * Do high fidelity simulations,
 * Do model calibration with data

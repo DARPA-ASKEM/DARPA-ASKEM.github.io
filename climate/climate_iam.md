@@ -11,9 +11,11 @@ has_toc: true
 
 ## Overview
 <mark>TBD, highly notional</mark>
-#### *Target Users*: The Climate IAM Toolkit is targeted towards modelers who work in the climate application space, and are interested in understanding the intersection between climate, economy, and other societal impact areas. 
+#### *Target Users*: 
+The Climate IAM Toolkit is targeted towards modelers who work in the climate application space, and are interested in understanding the intersection between climate, economy, and other societal impact areas. 
 
-#### *Features Supported*: Users can use this toolkit to:
+#### *Features Supported*: 
+Users can use this toolkit to:
 *	Start with an IAM model already written in the Mimi Framework,
 *	Configure model with new parameter values,
 *	Simulate model to create forecasts,

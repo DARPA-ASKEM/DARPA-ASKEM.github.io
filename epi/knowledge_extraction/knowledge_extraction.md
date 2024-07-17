@@ -13,8 +13,11 @@ Coming soon.
 
 ## Overview
 
-#### *Target Users*: xDD tools are for modelers and researchers who are developing their own models from scratch, and want to extract information from PDF documents to inform model development
-#### *Features Supported*: Users can use the SKEMA and COSMOS knowledge extraction pipeline to:
+#### *Target Users:*
+SKEMA and COSMOS knowledge extraction tools are for modelers and researchers who are developing their own models from scratch, and want to extract information from PDF documents to inform model development
+
+#### *Features Supported:*
+Users can use the SKEMA and COSMOS knowledge extraction pipeline to:
 * Extract knowledge from documents (e.g. scenario contexts)
 
 
