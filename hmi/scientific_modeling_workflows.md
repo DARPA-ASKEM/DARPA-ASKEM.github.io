@@ -53,7 +53,7 @@ Workflow templates streamline the process of building common modeling workflows.
 
 Resources and operators in the workflow graph summarize the data and inputs/outputs that they represent. Users can drill down to view more details or settings.
 
-Terarium's operators support various ways for users to configure complex scientific tasks., including:
+Terarium's operators support various ways for users to configure complex scientific tasks, including:
 
 - A guided wizard for quickly configuring common settings.
 - A notebook for direct coding.
