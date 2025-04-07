@@ -39,7 +39,7 @@ Each box is a resource or an operator that handles a task like transformation an
 
 ![Sensitivity analysis template configured to explore the outcomes of an SEIRHDV model](/assets/img/terarium/workflow-template.png)
 
-Workflow templates streamline the process of building common modeling workflows. They provide preconfigured and linked resources and operators tailored to user objectives, such as analyzing uncertainty, forecasting potential outcomes, or comparing intervention strategies. Available templates include:
+Workflow templates streamline the process of building common modeling workflows. They provide pre-configured and linked resources and operators tailored to user objectives, such as analyzing uncertainty, forecasting potential outcomes, or comparing intervention strategies. Available templates include:
 
 - **Situational awareness**: Calibrate a model to historical data to obtain the best estimate of parameters for the present and then forecast into the near future.
 - **Sensitivity analysis**: Configure a model with parameter distributions that reflect all the sources of uncertainty and then simulate into the near future.
