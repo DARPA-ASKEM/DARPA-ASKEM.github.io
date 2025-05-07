@@ -76,7 +76,8 @@ python -m pip install -e .[ode,docs]
 
 ## Documentation
 
-Full documentation can be found [here](https://miramodel.readthedocs.io).
+* Full software documentation can be found [here](https://miramodel.readthedocs.io)
+* Training material for working with MIRA template models can be found [here](https://gyorilab.github.io/mira/training_material.html)
 
 ## Example Notebooks
 * Defining multiple model variants using MIRA Templates: [Notebook 1](https://github.com/gyorilab/mira/blob/main/notebooks/metamodel_intro.ipynb)
@@ -94,6 +95,5 @@ Full documentation can be found [here](https://miramodel.readthedocs.io).
 * Benchmarking the efficacy of DKG groundings on a set of COVID EPI Models: 
   [Notebook 11](https://github.com/gyorilab/mira/blob/main/notebooks/hackathon_2023.10/Model%20Comparison.ipynb)
 
-## FAQ
-
 ## Contact Information for Questions
+* Benjamin Gyori: [b.gyori@northeastern.edu](mailto:b.gyori@northeastern.edu)

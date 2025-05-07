@@ -19,17 +19,23 @@ For example, a modeler at a county health department begins with an existing mod
 
 #### *Features Supported*: 
 Users may want to use this workflow to:
-* Leverage an existing model or bring in a model from a paper, 
-* Make structural model modifications, 
-* Find an appropriate set of parameter configurations for updated models they create through structural modifications,
+* Leverage an existing model or bring in a model from a paper
+* Make structural model modifications such as stratification or removal of compartments
+* Find an appropriate set of parameter configurations for updated models they create through structural modifications
 * Check that their models obey some core common-sense rules, using Funman satisfiability checks
 
+#### *Modeling Editing Modalities*
+In the Terarium workbench, users can edit models either by writing Python code in a notebook-like 
+environment or by using the built-in wizard. The wizard offers a simpler, more guided experience with 
+buttons and toggles, making it easy to modify models without writing code. 
+However, it’s less flexible than coding and doesn’t support some advanced edits.
 
 ## Installation and Configuration Instructions
-(please include links to repositories)
+Please refer to the MIRA installation and configuration section to learn how to install MIRA.  
 
 ## Examples
-(please include visuals, screenshots of inputs and outputs, etc.)
+Please refer to the MIRA documentation section to explore training material
+for interacting with MIRA template models using Python code. 
 
 ## FAQ
 
